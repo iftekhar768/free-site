@@ -9,10 +9,10 @@
     min-height: 100vh;
     width: 100%;
     background-color: black;
-    background-image: url(round.gif);
+    background-image: url(hole.gif);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: 100%;
     color: white;
     padding: 0 8%;
 }
